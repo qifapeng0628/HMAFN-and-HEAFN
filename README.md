@@ -25,10 +25,8 @@ This codebase was developed and tested in the following environment:
     ```
 
 3.  **Install other dependencies**:
-    You can save the following content as `requirements.txt` and run `pip install -r requirements.txt`.
     
     ```text
-    # requirements.txt
     numpy==1.26.4
     opencv-python==4.9.0.80
     tifffile==2024.8.30
